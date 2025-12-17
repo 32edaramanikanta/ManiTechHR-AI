@@ -1,0 +1,5 @@
+{
+  "name": "ManiTech HR  AI",
+  "description": "An intelligent recruitment assistant for early-stage startups to screen resumes, rank candidates, and draft communications using Gemini 2.5.",
+  "requestFramePermissions": []
+}
